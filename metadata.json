@@ -1,0 +1,8 @@
+{
+  "name": "Khô Cần Giờ - Vị Biển Nắng Gió",
+  "description": "Một cửa hàng trực tuyến hiện đại, năng động chuyên bán các loại đặc sản khô Cần Giờ với sự hỗ trợ của trợ lý ảo AI để tư vấn món ăn.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
